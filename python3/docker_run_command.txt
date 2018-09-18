@@ -1,0 +1,1 @@
+docker run --rm -it -v /home/kiyoshi/dev/tmp/emacs/my_python:/home/kiyoshi/my_python my_python bash
