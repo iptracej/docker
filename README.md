@@ -1,3 +1,3 @@
-# Docker Collection by Kiyoshi Watanabe
+# Docker Collection
 
-This repository contains all docker and docker-compose files for my projects
+This repository contains all docker and docker-compose files
