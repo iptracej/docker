@@ -1,6 +1,6 @@
 # Source Code Reading Enviornment
 
-Great thanks for the orginal post
+Great thanks for the authoer at the orginal post - 
 https://kernhack.hatenablog.com/entry/2016/12/16/004236
 
-I followed the link above to make automate initial setup
+I followed the link above and tweaked a bit to make this up.
