@@ -1,0 +1,1 @@
+docker run --rm -it -v /home/kiyoshi/dev/scikit-learn:/home/kiyoshi/scikit-learn scikit-learn bash
